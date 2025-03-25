@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fc71fb6.css",
+    "main.js": "/static/js/main.c8aad5a2.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/Group 720.png": "/static/media/Group 720.bb91f5d36475c6d29253.png",
+    "static/media/WhatsApp Video 2025-02-19 at 14.51.32.gif": "/static/media/WhatsApp Video 2025-02-19 at 14.51.32.d4e5c89b6c18c6758197.gif",
+    "static/media/WhatsApp Video 2025-02-18 at 11.06.15.gif": "/static/media/WhatsApp Video 2025-02-18 at 11.06.15.1f7291c2a16b57d0fad0.gif",
+    "static/media/WhatsApp Video 2025-02-19 at 14.51.25.gif": "/static/media/WhatsApp Video 2025-02-19 at 14.51.25.d5c988008c1084826cf6.gif",
+    "static/media/Group 718 (2).png": "/static/media/Group 718 (2).af04e7a91cc56500f963.png",
+    "static/media/Group 719 (1).png": "/static/media/Group 719 (1).9cfc7f0e79965d8d56de.png",
+    "static/media/WhatsApp Video 2025-02-17 at 14.23.29.gif": "/static/media/WhatsApp Video 2025-02-17 at 14.23.29.cf3011037d02b5137c5c.gif",
+    "static/media/WhatsApp Video 2025-02-19 at 15.25.03.gif": "/static/media/WhatsApp Video 2025-02-19 at 15.25.03.da9fe9f9eabfdd9b2db3.gif",
+    "static/media/WhatsApp Video 2025-02-17 at 14.24.15.gif": "/static/media/WhatsApp Video 2025-02-17 at 14.24.15.445b438cf2eae8d8a434.gif",
+    "static/media/WhatsApp Video 2025-02-17 at 14.22.11.gif": "/static/media/WhatsApp Video 2025-02-17 at 14.22.11.b51fda1fecbd68416932.gif",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/poult.png": "/static/media/poult.445de12cf472c2d77788.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/WhatsApp Image 2025-02-15 at 16.23.21_47c240b3.jpg": "/static/media/WhatsApp Image 2025-02-15 at 16.23.21_47c240b3.77b2c3f3c302d6c306e6.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/istockphoto-1342480600-612x612.jpg": "/static/media/istockphoto-1342480600-612x612.1b85f647b555ee4e9814.jpg",
+    "static/media/file-types.svg": "/static/media/file-types.c11ea2928fe1fc5369aa2d13d19c6a16.svg",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/global.svg": "/static/media/global.5c3016192bb7e844668d77d6673b2e1d.svg",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/index.html",
+    "main.8fc71fb6.css.map": "/static/css/main.8fc71fb6.css.map",
+    "main.c8aad5a2.js.map": "/static/js/main.c8aad5a2.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fc71fb6.css",
+    "static/js/main.c8aad5a2.js"
+  ]
+}
